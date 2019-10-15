@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Dibujar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dibujar\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Dibujar()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dibujar\r\n
+comment2.params=triangulo
+comment2.target=Dibujar(Triangulo)
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ repintar()
+comment5.params=
+comment5.target=Triangulo\ getTriangulo()
+comment5.text=Metodo\ de\ acceso\ a\ la\ propiedad\ triangulo
+comment6.params=triangulo
+comment6.target=void\ setTriangulo(Triangulo)
+comment6.text=Metodo\ de\ modificaci\u00F3n\ a\ la\ propiedad\ triangulo
+numComments=7
